@@ -1,0 +1,4 @@
+Filename,transcript,Call Type,Tags,Notes
+example_call_001.wav,"engine 14 respond for a structure fire at 1623 rodeo drive medic 2 also responding eta five minutes",fire,EMS,
+example_call_002.wav,"4845 cleveland street 71 year old male conscious and breathing chest pain since this morning",medical,cardiac,
+example_call_003.wav,"clear on scene patient is alert and oriented refusing transport medic 7 available",medical,EMS,

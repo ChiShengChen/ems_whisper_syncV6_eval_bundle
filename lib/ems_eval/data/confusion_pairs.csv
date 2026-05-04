@@ -1,0 +1,16 @@
+term_a,term_b,clinical_risk
+epinephrine,ephedrine,high
+intravenous,intranasal,high
+midazolam,metoclopramide,high
+naloxone,naltrexone,high
+adenosine,amiodarone,high
+lidocaine,labetalol,high
+magnesium,morphine,medium
+fentanyl,sufentanil,medium
+ketamine,ketorolac,medium
+diazepam,lorazepam,medium
+nitroglycerin,nitroprusside,high
+glucagon,glucose,medium
+insulin,glucagon,high
+dopamine,dobutamine,medium
+epinephrine,norepinephrine,medium

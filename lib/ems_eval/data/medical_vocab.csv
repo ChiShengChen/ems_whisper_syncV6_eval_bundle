@@ -1,0 +1,105 @@
+term,category,phonetic_challenge_level
+epinephrine,drug,high
+amiodarone,drug,high
+naloxone,drug,medium
+midazolam,drug,high
+fentanyl,drug,medium
+metoclopramide,drug,high
+D50,drug,low
+magnesium,drug,medium
+TXA,drug,low
+ketamine,drug,medium
+intubation,procedure,medium
+RSI,procedure,low
+BVM,procedure,low
+needle decompression,procedure,medium
+IO,procedure,low
+defibrillation,procedure,medium
+CPAP,procedure,low
+GCS,assessment,low
+AVPU,assessment,low
+SAMPLE,assessment,low
+OPQRST,assessment,low
+systolic,vital_sign,medium
+diastolic,vital_sign,medium
+SpO2,vital_sign,low
+EtCO2,vital_sign,low
+ROSC,scoring,low
+STEMI,scoring,low
+NSTEMI,scoring,low
+lidocaine,drug,medium
+bicarbonate,drug,medium
+adenosine,drug,high
+nitroglycerin,drug,high
+aspirin,drug,medium
+diphenhydramine,drug,high
+ondansetron,drug,high
+glucagon,drug,medium
+insulin,drug,medium
+albuterol,drug,medium
+ipratropium,drug,high
+morphine,drug,medium
+dexamethasone,drug,high
+methylprednisolone,drug,high
+ephedrine,drug,medium
+vasopressin,drug,medium
+norepinephrine,drug,high
+dopamine,drug,medium
+dobutamine,drug,medium
+tranexamic acid,drug,medium
+levetiracetam,drug,high
+lorazepam,drug,high
+diazepam,drug,medium
+ketorolac,drug,medium
+acetaminophen,drug,medium
+ibuprofen,drug,medium
+normal saline,drug,low
+lactated ringers,drug,low
+dextrose,drug,medium
+intravenous,procedure,low
+intramuscular,procedure,medium
+intranasal,procedure,medium
+sublingual,procedure,medium
+cricothyrotomy,procedure,high
+cardiopulmonary resuscitation,procedure,medium
+automated external defibrillator,procedure,low
+endotracheal tube,procedure,medium
+blood pressure,vital_sign,low
+heart rate,vital_sign,low
+respiratory rate,vital_sign,low
+oxygen saturation,vital_sign,low
+end-tidal CO2,vital_sign,low
+Glasgow Coma Scale,scoring,medium
+return of spontaneous circulation,scoring,medium
+ST elevation myocardial infarction,scoring,medium
+non-ST elevation myocardial infarction,scoring,medium
+ventricular fibrillation,scoring,low
+ventricular tachycardia,scoring,low
+pulseless electrical activity,scoring,medium
+motor vehicle collision,assessment,low
+gunshot wound,assessment,low
+cardiac arrest,assessment,low
+chest pain,assessment,low
+stroke,assessment,low
+seizure,assessment,low
+overdose,assessment,low
+anaphylaxis,assessment,high
+hypoglycemia,assessment,medium
+hyperglycemia,assessment,medium
+diabetic ketoacidosis,assessment,high
+congestive heart failure,assessment,medium
+COPD,assessment,low
+asthma,assessment,low
+pneumonia,assessment,medium
+sepsis,assessment,low
+trauma,assessment,low
+fracture,assessment,low
+laceration,assessment,low
+contusion,assessment,medium
+patient,assessment,low
+conscious,assessment,low
+unresponsive,assessment,low
+breathing,assessment,low
+apnea,assessment,medium
+cyanotic,assessment,medium
+diaphoretic,assessment,high
